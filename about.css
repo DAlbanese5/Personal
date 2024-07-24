@@ -1,11 +1,47 @@
 #header { 
-    font-size: 60px;
+    font-size: 30px;
     text-align: center;
     background-color: rgb(8, 41, 232);
     color: whitesmoke;
+    
 }
 
 .pic {
-    margin-left: 150px;
+    margin-left: 37%;
     
+}
+
+.buttons {
+
+}
+
+.name {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+nav {
+    background-color: whitesmoke;
+    box-shadow: -2px black;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    left: 0;
+    right: 0;
+
+}
+
+a:hover {
+    color:black
+}
+
+a:visited {
+    color: rgb(93, 93, 93);
+}
+
+.weights {
+    width: 350px;
+    margin-left:  31%;
+    ;
 }
