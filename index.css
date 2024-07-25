@@ -1,14 +1,26 @@
-#header { 
-    font-size: 60px;
-    text-align: center;
-    background-color: rgb(8, 41, 232);
-    color: whitesmoke;
+.statement {
+    font-size: 15px;
+    padding-right: 215px;
+    margin-top: 50px;
+    color:aliceblue
 }
 
-.pic {
-    margin-left: 150px;
+.Daulton {
+    float: right;
+    margin-top: -120px;
+}
+
+.title {
+    color: aliceblue;
+}
+
+.quote {
+    color: aliceblue;
+    margin-top: 160px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
+
 nav {
     background-color: whitesmoke;
     box-shadow: -2px black;
@@ -20,6 +32,7 @@ nav {
     right: 0;
 
 }
+
 .name {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
