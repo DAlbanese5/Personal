@@ -1,3 +1,33 @@
+body { 
+    background-color: rgb(44, 44, 44);
+}
+
+.h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    
+}
+.form {
+    color: rgb(255, 255, 255);
+    background-color: rgb(168, 133, 47);
+    border: solid 5px;
+    border-color: rgb(0, 0, 0);
+    display:inline-table;
+    text-align: center;
+    ;
+    
+}
+#name {
+    width: 300px;
+    
+}
+#email {
+    width: 300px;
+}
+#phone {
+    width: 300px;
+}
 nav {
     background-color: whitesmoke;
     box-shadow: -2px black;
@@ -11,28 +41,6 @@ nav {
     margin-right: 95px;
 
 }
-
-.pic1 {
-    width: 240px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-    float: right;
-    margin-top: -40px;
-    margin-right: 10px;
-}
-
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-top: 40px;
-    
-}
-
-.pro {
-    background-color: rgb(255, 255, 255);
-    border-left: 100px;
-  
-}
 .name {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
@@ -44,7 +52,6 @@ a:hover {
 a:visited {
     color: rgb(93, 93, 93);
 }
-
 .sidenav {
     height: 100%;
     width: 100px;
@@ -76,4 +83,10 @@ a:visited {
 .info {
     margin-left: 10px;
     margin-right: 100px;
+}
+.box {
+    margin: auto;
+}
+.buttons {
+    color: rgb(168, 133, 47);
 }
