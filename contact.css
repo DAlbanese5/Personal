@@ -20,13 +20,15 @@ body {
 }
 #name {
     width: 300px;
+    color: white;
     
 }
 #email {
     width: 300px;
 }
-#phone {
+#message {
     width: 300px;
+
 }
 nav {
     background-color: whitesmoke;
@@ -86,6 +88,7 @@ a:visited {
 }
 .box {
     margin: auto;
+    color: rgb(255, 255, 255);
 }
 .buttons {
     color: rgb(168, 133, 47);
